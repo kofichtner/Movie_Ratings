@@ -12,12 +12,12 @@ With the goal of better understanding my movie preferences, I conducted explorat
 ## Highlights
 **Looking at my most-watched genres**
 <p align="center">
-  <img src="https://github.com/kofichtner/Movie_Ratings_EDA/blob/main/images/movie_genres.png"
+  <img src="https://github.com/kofichtner/Movie_Ratings_EDA/blob/main/images/movie_genres_light.JPG"
 </p>
  
  **Applying log-normalization to skewed data**
   <p align="center">
-  <img src="https://github.com/kofichtner/Movie_Ratings_EDA/blob/main/images/log_norm.png"
+  <img src="https://github.com/kofichtner/Movie_Ratings_EDA/blob/main/images/log_norm_light.JPG"
 </p>
   
  **Results of model building and tuning of best performing models**
